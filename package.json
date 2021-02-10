@@ -1,0 +1,22 @@
+{
+  "name": "Assignment_npm",
+  "version": "1.0.0",
+  "description": "It is the Assignment of npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "moment": "*"
+  },
+  "dependencies": {
+    "@angular/cli": "^8.1.0",
+    "bootstrap": "*",
+    "express": "~4.17.1",
+    "lodash": "4.16.6",
+    "react": "*"
+  }
+}
